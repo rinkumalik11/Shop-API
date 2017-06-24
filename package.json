@@ -1,0 +1,17 @@
+{
+  "name": "shopapi",
+  "version": "1.0.0",
+  "description": "A web api for developers and designers to create shopping or ecommerce web or mobile apps at ease.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "lodash": "^4.17.4",
+    "mongoose": "^4.10.8"
+  }
+}
